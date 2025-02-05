@@ -78,10 +78,10 @@ p{
     align-items: center;
     justify-content: center;
     max-width: 25vw;      /* Container width */
-    max-height: 75vh;     /* Fixed height for container */
+    max-height: 85vh;     /* Fixed height for container */
     width: auto;
-    height: auto;
-    gap: .5rem;
+    height: fit-content;
+    gap: .75rem;
     background-color: var(--color-white);
     padding: 1rem;
     border: solid black .125rem;
