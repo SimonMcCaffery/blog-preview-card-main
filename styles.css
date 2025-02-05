@@ -100,7 +100,7 @@ p{
     width: auto;      
     height: auto;    
     object-fit: contain; 
-    border-radius: .75rem;
+    border-radius: 12px;
 }
 
 .profile-img {
